@@ -8,5 +8,5 @@ npm install
 # Running
 npm run dev
 
-# Deploy
+# Demo
 https://threejs-sample-portfolio-smoky.vercel.app
